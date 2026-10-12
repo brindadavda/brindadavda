@@ -63,10 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brindadavda&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5" alt="GitHub Streak" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brindadavda&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🌐 Connect & Code With Me
